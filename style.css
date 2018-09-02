@@ -1,0 +1,65 @@
+// css part //
+
+.nav-wrapper{
+	background-color:red;
+	background-color:red;
+	font-family:forte;
+	color:red;
+	}
+.txt{
+	color:red;
+}
+.brand-logo right{
+	color:red;
+}
+.nav-link{
+	color:white;
+}
+.logo-img{
+	height:60px;
+	width:60px;
+}
+.navbar-brand{
+	font-family:forte;
+	font-size:32px;
+}
+.nav-link{
+	font-family:forte;
+	font-size:20px;
+}
+.carousel-item{
+	height:70%;
+	
+}
+.card{
+	height:50%;
+	margin-top:50px;
+	margin-left:50px;
+}
+.title{
+	font-family:forte;
+	font-size:30px;
+	color:red;
+	font-style:bold;
+	text-align:center;
+}
+.about-text{
+	font-family:forte;
+	font-size:25px;
+	color:black;
+	font-style:bold;
+}
+.btn{
+background-color:red;
+}
+.btn:hover{
+	background-color:green;
+}
+.modal-dialogue{
+	width:50%;
+	padding:100px 30px 100px;
+	margin-left: 320px;
+}
+.modal-content{
+	background-color:black;
+}
